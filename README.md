@@ -2,7 +2,8 @@
 Project 2. 
 
 
-Instructions
+**#Instructions**
+
 The instructions for this mini project are divided into the following subsections:
 
 1.Create the Category and Subcategory DataFrames
@@ -19,17 +20,17 @@ The instructions for this mini project are divided into the following subsection
 
 ![image](https://github.com/amccollough1/Crowdfunding_ETL/assets/133404805/a0a2d287-22bf-417b-8848-0db3086889ce)
 
-#Create the Campaign DataFrame
+**#Create the Campaign DataFrame**
 
 ![image](https://github.com/amccollough1/Crowdfunding_ETL/assets/133404805/6b4767c5-eb32-417d-97cb-f10239debbc1)
 
-#Create the Contacts DataFrame
+**#Create the Contacts DataFrame**
 
 Option 1: Use Python dictionary methods.
 
 ![image](https://github.com/amccollough1/Crowdfunding_ETL/assets/133404805/dda98176-2ae3-42fd-af1e-2225169313e0)
 
-#Create the Crowdfunding Database
+**#Create the Crowdfunding Database**
 
 ![image](https://github.com/amccollough1/Crowdfunding_ETL/assets/133404805/ea7d170c-0013-4db3-8968-9ad6c7f52bb3)
 
