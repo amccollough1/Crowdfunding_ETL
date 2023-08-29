@@ -14,7 +14,7 @@ The instructions for this mini project are divided into the following subsection
 
 4.Create the Crowdfunding Database
 
-#Create the Category and Subcategory DataFrames
+**#Create the Category and Subcategory DataFrames**
 
 ![image](https://github.com/amccollough1/Crowdfunding_ETL/assets/133404805/5ddf241a-52fc-4bd5-8b12-9d740e9efea5)
 
